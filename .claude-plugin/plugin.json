@@ -1,0 +1,10 @@
+{
+  "name": "company-operating-kit",
+  "version": "0.1.2",
+  "description": "Run a small company inside Claude: a general manager plus departments as Claude Projects, a shared Company Brief in Google Drive, tracked hand-offs, a daily dispatcher, a Boardroom for meetings and a weekly review deck.",
+  "author": {
+    "name": "Ebrahem Abdullah"
+  },
+  "license": "Apache-2.0",
+  "keywords": ["company", "operating model", "departments", "general manager", "boardroom", "hand-offs", "weekly review", "startup"]
+}

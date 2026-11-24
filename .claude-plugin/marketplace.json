@@ -1,0 +1,17 @@
+{
+  "name": "company-operating-kit",
+  "owner": {
+    "name": "Ebrahem Abdullah"
+  },
+  "metadata": {
+    "description": "Run a small company inside Claude: a general manager, department Projects, a shared Company Brief, tracked hand-offs, a daily dispatcher, a Boardroom and a weekly review."
+  },
+  "plugins": [
+    {
+      "name": "company-operating-kit",
+      "source": "./",
+      "description": "Setup skill, GM/Boardroom skill and eight department skills, with templates for the Company Brief, instructions, minutes, dispatcher log, daily dispatcher and weekly review.",
+      "version": "0.1.2"
+    }
+  ]
+}
